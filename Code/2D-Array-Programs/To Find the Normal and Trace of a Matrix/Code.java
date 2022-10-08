@@ -1,5 +1,3 @@
-import java.math.*;
-
 class Mat{
     int [][] arr;
     int n;
